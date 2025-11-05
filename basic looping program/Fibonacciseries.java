@@ -1,19 +1,21 @@
 
 public class Fibonacciseries {
+
 	public static void main(String[] args) {
 		
-		int n =10;
-		int first=1;
-		int second=2;
+		int num=10;
+		int first = 1;
+		int second =2;
+		int r =0;
 		
-		for(int i=0; i<=n;i++) {
+		while(r<=num) {
 			
-			System.out.print(first +" ");
 			int next=first+second;
 			first=second;
-			second = next;
+			second=next;
 			
+			r++;
+			System.out.print(second + " ");
 		}
 	}
-
 }
