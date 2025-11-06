@@ -1,4 +1,4 @@
-# ☕ Core Java Programs
+#  Core Java Programs
 
 This repository contains a collection of **Core Java programs** designed to help beginners and intermediate learners strengthen their understanding of Java fundamentals 
 and object-oriented programming concepts.
