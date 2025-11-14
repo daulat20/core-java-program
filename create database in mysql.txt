@@ -1,0 +1,7 @@
+1. create database college;
+
+2. use college;
+
+3. create table student(id int, name varchar(20),city varchar(25));
+
+4. select * from student;
