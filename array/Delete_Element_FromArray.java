@@ -8,7 +8,7 @@ public class Delete_Element_FromArray {
 		int n = arr.length;
 		
 		
-		System.out.println("Enter Delet Element :");
+		System.out.println("Enter Delete Element :");
 		int del = sc.nextInt();
 		
 		int index = -1;
@@ -45,3 +45,4 @@ public class Delete_Element_FromArray {
 	}
 
 }
+
